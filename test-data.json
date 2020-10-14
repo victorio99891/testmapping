@@ -1,0 +1,25 @@
+{
+  "id": 123,
+  "name": "cokolwiek",
+  "jeszczeBardziejSkomplikowanePole": [
+    {
+      "a": 1
+    },
+    {
+      "b": 2
+    },
+    {
+      "c": 3
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "timestamp",
+      "value": 1602693923
+    },
+    {
+      "key": "trackName",
+      "value": "test track name"
+    }
+  ]
+}
